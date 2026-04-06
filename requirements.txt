@@ -1,0 +1,14 @@
+# AWS SDK
+boto3>=1.40.62
+
+# Loads environment variables from a .env file
+python-dotenv>=1.2.1
+
+# Strands agent framework
+strands-agents>=1.14.0
+
+# Amazon Bedrock AgentCore SDK
+bedrock-agentcore>=1.0.5
+
+# AgentCore starter toolkit (needs packaging>=24.2 via prance)
+bedrock-agentcore-starter-toolkit>=0.1.27
